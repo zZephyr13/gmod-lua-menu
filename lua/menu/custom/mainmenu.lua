@@ -11,6 +11,7 @@ include( "main.lua" )
 include( "_errors.lua" )
 include( "../background.lua" )
 include( "../crosshair_setup.lua" )
+include( "../openurl.lua" )
 
 pnlMainMenu = nil
 
